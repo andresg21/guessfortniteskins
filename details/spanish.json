@@ -1188,7 +1188,7 @@
             "Levels": [
                 {
                     "number": 1,
-                    "rightAnswer": "?",
+                    "rightAnswer": "pito",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [
@@ -2237,7 +2237,7 @@
             "Levels": [
                 {
                     "number": 1,
-                    "rightAnswer": "?",
+                    "rightAnswer": "pito2",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [
@@ -3286,7 +3286,7 @@
             "Levels": [
                 {
                     "number": 1,
-                    "rightAnswer": "?",
+                    "rightAnswer": "pito3",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [
