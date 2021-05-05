@@ -1,7 +1,7 @@
 {
     "tasksData": [
         {
-            "name": "Legendario",
+            "name": "Legendary",
             "localizedName": "Legendary",
             "gameType": 0,
             "useMixedTypes": false,
@@ -1009,7 +1009,7 @@
             ]
         },
         {
-            "name": "Epico",
+            "name": "Epic",
             "localizedName": "Epic",
             "gameType": 0,
             "useMixedTypes": false,
