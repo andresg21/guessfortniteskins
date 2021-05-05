@@ -4460,31 +4460,31 @@
     "gameItems": [
         {
             "key": 0,
-            "value": "play"
+            "value": "Jugar"
         },
         {
             "key": 1,
-            "value": "about"
+            "value": "Acerca de"
         },
         {
             "key": 2,
-            "value": "quit"
+            "value": "Salir"
         },
         {
             "key": 3,
-            "value": "back"
+            "value": "Atras"
         },
         {
             "key": 4,
-            "value": "Get ready to solve some picture puzzles! Get stucked? Use different hints! Earn coins by completing tasks or by watching short AD! Have fun!"
+            "value": "¡Prepárate para resolver algunos acertijos con imágenes! ¿Quedarse atascado? ¡Usa diferentes pistas! ¡Gana monedas completando tareas o viendo un anuncio corto! ¡Divertirse!"
         },
         {
             "key": 5,
-            "value": "locked"
+            "value": "Bloqueada"
         },
         {
             "key": 6,
-            "value": "Reveal a letter"
+            "value": "Revelar una letra"
         },
         {
             "key": 7,
