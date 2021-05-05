@@ -1,8 +1,8 @@
 {
     "tasksData": [
         {
-            "name": "Legendario",
-            "localizedName": "Legendary",
+            "name": "Legendary",
+            "localizedName": "Legendario",
             "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
@@ -1009,8 +1009,8 @@
             ]
         },
         {
-            "name": "Epico",
-            "localizedName": "Epic",
+            "name": "Epic",
+            "localizedName": "Epico",
             "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 2,
@@ -2440,8 +2440,8 @@
             ]
         },
         {
-            "name": "Raro",
-            "localizedName": "Rare",
+            "name": "Rare",
+            "localizedName": "Raro",
             "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 3,
@@ -3349,8 +3349,8 @@
             ]
         },
         {
-            "name": "Poco común",
-            "localizedName": "Uncommon",
+            "name": "Uncommon",
+            "localizedName": "Poco común",
             "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 4,
