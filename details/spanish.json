@@ -4651,7 +4651,26 @@
             "value": "atras"
         }
     ],
-    "subCategories": [],
+    "subCategories": [
+        {
+            "iconName": "Abstract",
+            "localizedTitle": "Abstract",
+            "subcategories": [
+                "Animals",
+                "Countries",
+                "Famous"
+            ]
+        },
+        {
+            "iconName": "Entities",
+            "localizedTitle": "Entities",
+            "subcategories": [
+                "Erudition",
+                "Puzzle",
+                "Sport"
+            ]
+        }
+    ],
     "randomLetters": [
         121,
         98,
@@ -4667,7 +4686,6 @@
         105,
         122,
         120,
-        108,
-        112
+        108
     ]
 }
