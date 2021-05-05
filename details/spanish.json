@@ -1,8 +1,8 @@
 {
     "tasksData": [
         {
-            "name": "Legendary",
-            "localizedName": "Legendario",
+            "name": "Legendario",
+            "localizedName": "Legendary",
             "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
@@ -2440,8 +2440,8 @@
             ]
         },
         {
-            "name": "Rare",
-            "localizedName": "Raro",
+            "name": "Raro",
+            "localizedName": "Rare",
             "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 3,
@@ -3349,7 +3349,7 @@
             ]
         },
         {
-            "name": "Uncommon",
+            "name": "Poco común",
             "localizedName": "Uncommon",
             "gameType": 0,
             "useMixedTypes": false,
