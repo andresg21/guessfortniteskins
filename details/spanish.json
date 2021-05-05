@@ -1,7 +1,7 @@
 {
     "tasksData": [
         {
-            "name": "Epica",
+            "name": "Epic",
             "localizedName": "Epic",
             "gameType": 0,
             "useMixedTypes": false,
@@ -1180,7 +1180,7 @@
             ]
         },
         {
-            "name": "Legendaria",
+            "name": "Legendary",
             "localizedName": "Legendary",
             "gameType": 0,
             "useMixedTypes": false,
@@ -2229,7 +2229,7 @@
             ]
         },
         {
-            "name": "Rara",
+            "name": "Rare",
             "localizedName": "Rare",
             "gameType": 0,
             "useMixedTypes": false,
@@ -3278,7 +3278,7 @@
             ]
         },
         {
-            "name": "Poco Comun",
+            "name": "Uncommon",
             "localizedName": "Uncommon",
             "gameType": 0,
             "useMixedTypes": false,
