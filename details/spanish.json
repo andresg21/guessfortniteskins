@@ -1,7 +1,7 @@
-﻿{
+{
     "tasksData": [
         {
-            "name": "Legendary",
+            "name": "Legendario",
             "localizedName": "Legendary",
             "gameType": 0,
             "useMixedTypes": false,
@@ -3346,7 +3346,6 @@
                     "gameType": 0,
                     "cost": 40
                 }
-
             ]
         },
         {
@@ -4256,202 +4255,193 @@
                     "gameType": 0,
                     "cost": 40
                 }
-
             ]
         }
     ],
     "gameItems": [
         {
             "key": 0,
-            "value": "Jugar"
+            "value": "play"
         },
         {
             "key": 1,
-            "value": "Acerca de"
+            "value": "about"
         },
         {
             "key": 2,
-            "value": "Salir"
+            "value": "quit"
         },
         {
             "key": 3,
-            "value": "Atras"
+            "value": "back"
         },
         {
             "key": 4,
-            "value": "¡Prepárate para resolver algunos acertijos con imágenes! ¿Quedarse atascado? ¡Usa diferentes pistas! ¡Gana monedas completando tareas o viendo un anuncio corto! ¡Divertirse!"
+            "value": "Get ready to solve some battle royale skins! To get stuck? Use different tracks! Earn coins by completing tasks or watching short ads! Have fun!"
         },
         {
             "key": 5,
-            "value": "Bloqueada"
+            "value": "locked"
         },
         {
             "key": 6,
-            "value": "Revelar una letra"
+            "value": "Reveal a letter"
         },
         {
             "key": 7,
-            "value": "Quitar letras"
+            "value": "Remove letters"
         },
         {
             "key": 8,
-            "value": "Obtén una respuesta"
+            "value": "Get an answer"
         },
         {
             "key": 9,
-            "value": "Conseguir monedas"
+            "value": "Get coins"
         },
         {
             "key": 10,
-            "value": "Ver un Anuncio"
+            "value": "Watch AD"
         },
         {
             "key": 11,
-            "value": "Compra por dinero"
+            "value": "Buy for real money"
         },
         {
             "key": 12,
-            "value": "Continuar"
+            "value": "continue"
         },
         {
             "key": 13,
-            "value": "Menú Principal"
+            "value": "main menu"
         },
         {
             "key": 14,
-            "value": "Nivel Completado!"
+            "value": "Level complete!"
         },
         {
             "key": 15,
-            "value": "Si te gustó el juego, califícalo en Google Play"
+            "value": "If you liked the game, please rate it on Google Play!"
         },
         {
             "key": 16,
-            "value": "Ahora"
-        },
-        {
-            "key": 18,
-            "value": "Mas Tarde"
+            "value": "rate"
         },
         {
             "key": 17,
-            "value": "Nunca"
+            "value": "never"
+        },
+        {
+            "key": 18,
+            "value": "later"
         },
         {
             "key": 19,
-            "value": "Consentimiento de recopilación de datos"
+            "value": "Data collection consent"
         },
         {
             "key": 20,
-            "value": "Anuncios personalizados"
+            "value": "Personalized advertisements"
         },
         {
             "key": 21,
-            "value": "Permitir que las redes de AD también utilicen los datos recopilados y muestren anuncios personalizados"
+            "value": "Allow AD networks too use collected data and show personalized advertisements"
         },
         {
             "key": 22,
-            "value": "Si"
+            "value": "yes"
         },
         {
             "key": 23,
-            "value": "No"
+            "value": "no"
         },
         {
             "key": 24,
-            "value": "Parece que tienes un mejor progreso!"
+            "value": "Looks like you have better progress!"
         },
         {
             "key": 25,
-            "value": "¿Quieres cargarlo?"
+            "value": "Do you want to load it?"
         },
         {
             "key": 26,
-            "value": "¡Hola! ¡Solo para informarle, usamos su juego y los datos del dispositivo con su consentimiento para mejorar nuestro juego!"
+            "value": "Hello there! Just to let you know, we use your gameplay and device data with your consent to improve our game!"
         },
         {
             "key": 27,
-            "value": "¿Quieres que te presentemos publicidad relevante que se ajuste a tus intereses?"
+            "value": "Do you want us to present you relevant advertising that fits your interests?"
         },
         {
             "key": 28,
-            "value": "Confirmar"
+            "value": "Confirm"
         },
         {
             "key": 29,
-            "value": "Aprende más"
+            "value": "Learn more"
         },
         {
             "key": 30,
-            "value": "Eliminar respuesta incorrecta"
+            "value": "Remove wrong answer"
         },
         {
             "key": 31,
-            "value": "Eliminar dos respuestas"
+            "value": "Remove two answers"
         },
         {
             "key": 32,
-            "value": "Chanse para equivocarse"
+            "value": "Chanse to mistake"
         },
         {
             "key": 33,
-            "value": "¡Ayúdame a completar el nivel!"
+            "value": "Please, help me to complete the level!"
         },
         {
             "key": 34,
-            "value": "Ayuda de amigos"
+            "value": "Help from friends"
         },
         {
             "key": 35,
-            "value": "Pregunte a sus amigos"
+            "value": "Ask friends"
         },
         {
             "key": 36,
-            "value": "Apuesta"
+            "value": "Bet"
         },
         {
             "key": 37,
-            "value": "¡Usa pistas si te quedas atascado!"
+            "value": "Use hints if you get stucked!"
         },
         {
             "key": 38,
-            "value": "Toque la letra para borrarla. Desliza para borrar todas las letras."
+            "value": "Tap the letter to clear it. Swipe to clear all letters."
         },
         {
             "key": 39,
-            "value": "¡Raspa la película para revelar la imagen!"
+            "value": "Scrape the film to reveal the image!"
         },
         {
             "key": 40,
-            "value": "Toque aquí para que la imagen sea más clara. ¡Requiere oro!"
+            "value": "Tap this to make the image more clear. Requires gold!"
         },
         {
             "key": 41,
-            "value": "Toque la imagen para que quede más clara. ¡Requiere oro!"
+            "value": "Tap the image to make it more clear. Requires gold!"
         },
         {
             "key": 42,
-            "value": "Toque aquí para comenzar a apuntar. Toque por segunda vez para disparar. ¡Requiere oro!"
+            "value": "Tap this to start aiming. Tap in second time to shoot. Requires gold!"
         },
         {
             "key": 43,
-            "value": "Toque el área para comenzar a apuntar. Toque por segunda vez para disparar. ¡Requiere oro!"
+            "value": "Tap the area to start aiming. Tap in second time to shoot. Requires gold!"
         },
         {
             "key": 44,
-            "value": "Toque para obtener información útil sobre la tarea."
+            "value": "Tap to get usefull info about the task!"
         },
         {
             "key": 45,
-            "value": "¿Qué tan difícil es esta tarea? ¡Haz una apuesta correcta!"
-        },
-        {
-            "key": 46,
-            "value": "Mas Juegos"
-        },
-        {
-            "key": 47,
-            "value": "atras"
+            "value": "How difficult this task is? Make a right bet!"
         }
     ],
     "subCategories": [
