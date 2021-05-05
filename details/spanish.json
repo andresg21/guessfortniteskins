@@ -2,7 +2,7 @@
     "tasksData": [
         {
             "name": "Legendary",
-            "localizedName": "Legendary",
+            "localizedName": "Legendario",
             "gameType": 0,
             "useMixedTypes": false,
             "orderNumber": 1,
