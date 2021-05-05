@@ -4261,15 +4261,15 @@
     "gameItems": [
         {
             "key": 0,
-            "value": "play"
+            "value": "Jugar"
         },
         {
             "key": 1,
-            "value": "about"
+            "value": "Acerca de"
         },
         {
             "key": 2,
-            "value": "quit"
+            "value": "Salir"
         },
         {
             "key": 3,
