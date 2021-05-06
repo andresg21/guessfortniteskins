@@ -9,7 +9,7 @@
             "Levels": [
                 {
                     "number": 1,
-                    "rightAnswer": "AIM",
+                    "rightAnswer": "123456789123456789123456789",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -27,7 +27,7 @@
                 },
                 {
                     "number": 3,
-                    "rightAnswer": "ARK",
+                    "rightAnswer": "ARCANGEL",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -36,7 +36,7 @@
                 },
                 {
                     "number": 4,
-                    "rightAnswer": "Battle Hound",
+                    "rightAnswer": "PERRO DE GUERRA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -45,7 +45,7 @@
                 },
                 {
                     "number": 5,
-                    "rightAnswer": "Black Knight",
+                    "rightAnswer": "CABALLERO NEGRO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -54,7 +54,7 @@
                 },
                 {
                     "number": 6,
-                    "rightAnswer": "Blackheart",
+                    "rightAnswer": "PARCHE NEGRO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -63,7 +63,7 @@
                 },
                 {
                     "number": 7,
-                    "rightAnswer": "Calamity",
+                    "rightAnswer": "CALAMIDAD",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -72,7 +72,7 @@
                 },
                 {
                     "number": 8,
-                    "rightAnswer": "Carbide",
+                    "rightAnswer": "CARBURO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
