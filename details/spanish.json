@@ -180,7 +180,7 @@
                 },
                 {
                     "number": 20,
-                    "rightAnswer": "AMENAZA INMINENTE",
+                    "rightAnswer": "LOBUNO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -198,7 +198,7 @@
                 },
                 {
                     "number": 22,
-                    "rightAnswer": "Drift",
+                    "rightAnswer": "DERIVA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -207,7 +207,7 @@
                 },
                 {
                     "number": 23,
-                    "rightAnswer": "Enforcer",
+                    "rightAnswer": "EJECUTOR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -225,7 +225,7 @@
                 },
                 {
                     "number": 25,
-                    "rightAnswer": "Eternal Knight",
+                    "rightAnswer": "CABALLERO ETERNO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -234,7 +234,7 @@
                 },
                 {
                     "number": 26,
-                    "rightAnswer": "Fade",
+                    "rightAnswer": "DESGASTADO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -243,7 +243,7 @@
                 },
                 {
                     "number": 27,
-                    "rightAnswer": "Fallen Love Ranger",
+                    "rightAnswer": "MONTARAZ AMOROSO DEMONÍACO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -252,7 +252,7 @@
                 },
                 {
                     "number": 28,
-                    "rightAnswer": "Fate",
+                    "rightAnswer": "DESTINO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -261,7 +261,7 @@
                 },
                 {
                     "number": 29,
-                    "rightAnswer": "Flytrap",
+                    "rightAnswer": "CARNIVORO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -270,7 +270,7 @@
                 },
                 {
                     "number": 30,
-                    "rightAnswer": "Frostbite",
+                    "rightAnswer": "CONGELADO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -279,7 +279,7 @@
                 },
                 {
                     "number": 31,
-                    "rightAnswer": "Fusion",
+                    "rightAnswer": "FUSION",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -288,7 +288,7 @@
                 },
                 {
                     "number": 32,
-                    "rightAnswer": "Glimmer",
+                    "rightAnswer": "DESTELLO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -297,7 +297,7 @@
                 },
                 {
                     "number": 33,
-                    "rightAnswer": "GLOW",
+                    "rightAnswer": "RESPLANDOR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -315,7 +315,7 @@
                 },
                 {
                     "number": 35,
-                    "rightAnswer": "Hime",
+                    "rightAnswer": "HIME",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -324,7 +324,7 @@
                 },
                 {
                     "number": 36,
-                    "rightAnswer": "Hybrid",
+                    "rightAnswer": "HIBRIDO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -333,7 +333,7 @@
                 },
                 {
                     "number": 37,
-                    "rightAnswer": "Inferno",
+                    "rightAnswer": "INFIERNO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -351,7 +351,7 @@
                 },
                 {
                     "number": 39,
-                    "rightAnswer": "Krampus",
+                    "rightAnswer": "GRINCH",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -360,7 +360,7 @@
                 },
                 {
                     "number": 40,
-                    "rightAnswer": "Leviathan",
+                    "rightAnswer": "LEVIATAN",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -369,7 +369,7 @@
                 },
                 {
                     "number": 41,
-                    "rightAnswer": "Love Ranger",
+                    "rightAnswer": "MONTARAZ AMOROSO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -378,7 +378,7 @@
                 },
                 {
                     "number": 42,
-                    "rightAnswer": "Luxe",
+                    "rightAnswer": "LUJO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -387,7 +387,7 @@
                 },
                 {
                     "number": 43,
-                    "rightAnswer": "Lynx",
+                    "rightAnswer": "LINCE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -396,7 +396,7 @@
                 },
                 {
                     "number": 44,
-                    "rightAnswer": "Magnus",
+                    "rightAnswer": "MAGNUS",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -405,7 +405,7 @@
                 },
                 {
                     "number": 45,
-                    "rightAnswer": "Malice",
+                    "rightAnswer": "MALICIA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -414,7 +414,7 @@
                 },
                 {
                     "number": 46,
-                    "rightAnswer": "Gear Specialist Maya",
+                    "rightAnswer": "MAYAESPECIALISTAENEQUIPAMIENTO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -423,7 +423,7 @@
                 },
                 {
                     "number": 47,
-                    "rightAnswer": "Midas",
+                    "rightAnswer": "MIDAS",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -432,7 +432,7 @@
                 },
                 {
                     "number": 48,
-                    "rightAnswer": "Moisty Merman",
+                    "rightAnswer": "BATRACIO BORBOTEANTE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -441,7 +441,7 @@
                 },
                 {
                     "number": 49,
-                    "rightAnswer": "Musha",
+                    "rightAnswer": "MUSHA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -450,7 +450,7 @@
                 },
                 {
                     "number": 50,
-                    "rightAnswer": "Oblivion",
+                    "rightAnswer": "OLVIDO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -459,7 +459,7 @@
                 },
                 {
                     "number": 51,
-                    "rightAnswer": "Omega",
+                    "rightAnswer": "OMEGA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -468,7 +468,7 @@
                 },
                 {
                     "number": 52,
-                    "rightAnswer": "Omen",
+                    "rightAnswer": "PRESAGIO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -477,7 +477,7 @@
                 },
                 {
                     "number": 53,
-                    "rightAnswer": "Oppressor",
+                    "rightAnswer": "OPRESOR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
