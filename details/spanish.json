@@ -1656,7 +1656,7 @@
                 },
                 {
                     "number": 72,
-                    "rightAnswer": "Flare",
+                    "rightAnswer": "FULGOR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1665,7 +1665,7 @@
                 },
                 {
                     "number": 73,
-                    "rightAnswer": "Freestyle",
+                    "rightAnswer": "ESTILO LIBRE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1674,7 +1674,7 @@
                 },
                 {
                     "number": 74,
-                    "rightAnswer": "Funk Ops",
+                    "rightAnswer": "OPERACIONES ESPECIALES FUNKY",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1683,7 +1683,7 @@
                 },
                 {
                     "number": 75,
-                    "rightAnswer": "Fyra",
+                    "rightAnswer": "FYRA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1692,7 +1692,7 @@
                 },
                 {
                     "number": 76,
-                    "rightAnswer": "Galaxy",
+                    "rightAnswer": "GALAXIA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1701,7 +1701,7 @@
                 },
                 {
                     "number": 77,
-                    "rightAnswer": "Gemini",
+                    "rightAnswer": "GEMINI",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1710,7 +1710,7 @@
                 },
                 {
                     "number": 78,
-                    "rightAnswer": "Chaos Double Agent",
+                    "rightAnswer": "CAOS AGENTE DOBLE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1719,7 +1719,7 @@
                 },
                 {
                     "number": 79,
-                    "rightAnswer": "Double Agent Hush",
+                    "rightAnswer": "SILENCIO AGENTE DOBLE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1728,7 +1728,7 @@
                 },
                 {
                     "number": 80,
-                    "rightAnswer": "Double Agent Wildcard",
+                    "rightAnswer": "COMODIN AGENTE DOBLE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1737,7 +1737,7 @@
                 },
                 {
                     "number": 81,
-                    "rightAnswer": "Agent Jones",
+                    "rightAnswer": "AGENTE JONES",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1746,7 +1746,7 @@
                 },
                 {
                     "number": 82,
-                    "rightAnswer": "Arachne Couture",
+                    "rightAnswer": "ARACNE ALTA COSTURA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1755,7 +1755,7 @@
                 },
                 {
                     "number": 83,
-                    "rightAnswer": "Blitz Brigade",
+                    "rightAnswer": "DIOS DEL DESMARQUE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1764,7 +1764,7 @@
                 },
                 {
                     "number": 84,
-                    "rightAnswer": "Bone Boss",
+                    "rightAnswer": "CAUDILLO OSEO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1773,7 +1773,7 @@
                 },
                 {
                     "number": 85,
-                    "rightAnswer": "Bone Ravage",
+                    "rightAnswer": "CARROÑERA OSEA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1782,7 +1782,7 @@
                 },
                 {
                     "number": 86,
-                    "rightAnswer": "Breakaway",
+                    "rightAnswer": "ESCISION",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1791,7 +1791,7 @@
                 },
                 {
                     "number": 87,
-                    "rightAnswer": "Britestorm Bomber",
+                    "rightAnswer": "BOMBARDERA BRILLOTORMENTA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1800,7 +1800,7 @@
                 },
                 {
                     "number": 88,
-                    "rightAnswer": "Centurion",
+                    "rightAnswer": "CENTURION",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1809,7 +1809,7 @@
                 },
                 {
                     "number": 89,
-                    "rightAnswer": "Cloud Striker",
+                    "rightAnswer": "REMATANUBES",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1818,7 +1818,7 @@
                 },
                 {
                     "number": 90,
-                    "rightAnswer": "Cluck",
+                    "rightAnswer": "COCOMANDANTE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1827,7 +1827,7 @@
                 },
                 {
                     "number": 91,
-                    "rightAnswer": "Corrupted Arachne",
+                    "rightAnswer": "ARACNE CORRUPTA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1836,7 +1836,7 @@
                 },
                 {
                     "number": 92,
-                    "rightAnswer": "Corrupted Insight",
+                    "rightAnswer": "PERCEPCION",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1845,7 +1845,7 @@
                 },
                 {
                     "number": 93,
-                    "rightAnswer": "Corrupted Shogun",
+                    "rightAnswer": "SHOGUN CORRUPTO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1854,7 +1854,7 @@
                 },
                 {
                     "number": 94,
-                    "rightAnswer": "Crossbar Crusher",
+                    "rightAnswer": "BANDOLERA DE LA BANDA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1863,7 +1863,7 @@
                 },
                 {
                     "number": 95,
-                    "rightAnswer": "Daryl Dixon",
+                    "rightAnswer": "DARYL DIXON",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1872,7 +1872,7 @@
                 },
                 {
                     "number": 96,
-                    "rightAnswer": "Deo",
+                    "rightAnswer": "DEO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1881,7 +1881,7 @@
                 },
                 {
                     "number": 97,
-                    "rightAnswer": "Derby Dominator",
+                    "rightAnswer": "DOMINADORA DEL DERBY",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1890,7 +1890,7 @@
                 },
                 {
                     "number": 98,
-                    "rightAnswer": "Derby Dynamo",
+                    "rightAnswer": "DERBI DINAMO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1899,7 +1899,7 @@
                 },
                 {
                     "number": 99,
-                    "rightAnswer": "Dread Fate",
+                    "rightAnswer": "DESTINO TEMIBLE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1908,7 +1908,7 @@
                 },
                 {
                     "number": 100,
-                    "rightAnswer": "Dread Omen",
+                    "rightAnswer": "PRESAGIO TEMIBLE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1917,7 +1917,7 @@
                 },
                 {
                     "number": 101,
-                    "rightAnswer": "Eco",
+                    "rightAnswer": "ECO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1926,7 +1926,7 @@
                 },
                 {
                     "number": 102,
-                    "rightAnswer": "Ellen Ripley",
+                    "rightAnswer": "ELLEN RIPLEY",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1935,7 +1935,7 @@
                 },
                 {
                     "number": 103,
-                    "rightAnswer": "Fishskull",
+                    "rightAnswer": "PALITO OSEO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1944,7 +1944,7 @@
                 },
                 {
                     "number": 104,
-                    "rightAnswer": "Flow",
+                    "rightAnswer": "FLUJO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1953,7 +1953,7 @@
                 },
                 {
                     "number": 105,
-                    "rightAnswer": "Formation Fighter",
+                    "rightAnswer": "ASALTANTE DE LA ALINEACION",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1962,7 +1962,7 @@
                 },
                 {
                     "number": 106,
-                    "rightAnswer": "Galactico",
+                    "rightAnswer": "GALACTICO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1971,7 +1971,7 @@
                 },
                 {
                     "number": 107,
-                    "rightAnswer": "Ghoul Trooper",
+                    "rightAnswer": "DEMONIO MILITAR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1980,7 +1980,7 @@
                 },
                 {
                     "number": 108,
-                    "rightAnswer": "Gia",
+                    "rightAnswer": "GIA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1989,7 +1989,7 @@
                 },
                 {
                     "number": 109,
-                    "rightAnswer": "Giddy-Up",
+                    "rightAnswer": "GIDDY-UP",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -1998,7 +1998,7 @@
                 },
                 {
                     "number": 110,
-                    "rightAnswer": "Ginger Gunner",
+                    "rightAnswer": "ARTILLERA DE JENGIBRE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2007,7 +2007,7 @@
                 },
                 {
                     "number": 111,
-                    "rightAnswer": "Globe Shaker",
+                    "rightAnswer": "BOLA DE NIEVE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2016,7 +2016,7 @@
                 },
                 {
                     "number": 112,
-                    "rightAnswer": "Gnash",
+                    "rightAnswer": "ESPASMO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2025,7 +2025,7 @@
                 },
                 {
                     "number": 113,
-                    "rightAnswer": "The Good Doctor",
+                    "rightAnswer": "EL BUEN DOCTOR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2034,7 +2034,7 @@
                 },
                 {
                     "number": 114,
-                    "rightAnswer": "Grave Feather",
+                    "rightAnswer": "PLUMAS DE ULTRATUMBA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2043,7 +2043,7 @@
                 },
                 {
                     "number": 115,
-                    "rightAnswer": "Gridiron",
+                    "rightAnswer": "GRIDIRON",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2052,7 +2052,7 @@
                 },
                 {
                     "number": 116,
-                    "rightAnswer": "Grim Fable",
+                    "rightAnswer": "FABULA SOMBRIA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2061,7 +2061,7 @@
                 },
                 {
                     "number": 117,
-                    "rightAnswer": "Grimey",
+                    "rightAnswer": "PARCO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2070,7 +2070,7 @@
                 },
                 {
                     "number": 118,
-                    "rightAnswer": "Grimoire",
+                    "rightAnswer": "GRIMORIO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2079,7 +2079,7 @@
                 },
                 {
                     "number": 119,
-                    "rightAnswer": "Grind",
+                    "rightAnswer": "DRIBLADOR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2088,7 +2088,7 @@
                 },
                 {
                     "number": 120,
-                    "rightAnswer": "Growler",
+                    "rightAnswer": "GRUÑIDOS",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2097,7 +2097,7 @@
                 },
                 {
                     "number": 121,
-                    "rightAnswer": "Guan Yu",
+                    "rightAnswer": "GUAN YU",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2106,7 +2106,7 @@
                 },
                 {
                     "number": 122,
-                    "rightAnswer": "Gumshoe",
+                    "rightAnswer": "INVESTIGADORA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2115,7 +2115,7 @@
                 },
                 {
                     "number": 123,
-                    "rightAnswer": "Gutbomb",
+                    "rightAnswer": "BOMBA CALORICA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2124,7 +2124,7 @@
                 },
                 {
                     "number": 124,
-                    "rightAnswer": "Hacivat",
+                    "rightAnswer": "HADSHIVAT",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2133,7 +2133,7 @@
                 },
                 {
                     "number": 125,
-                    "rightAnswer": "Hay Man",
+                    "rightAnswer": "HOMBRE DE MIMBRE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2142,7 +2142,7 @@
                 },
                 {
                     "number": 126,
-                    "rightAnswer": "Hazard Agent",
+                    "rightAnswer": "AGENTE BIOLOGICA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2151,7 +2151,7 @@
                 },
                 {
                     "number": 127,
-                    "rightAnswer": "Hedron",
+                    "rightAnswer": "HEDRON",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2160,7 +2160,7 @@
                 },
                 {
                     "number": 128,
-                    "rightAnswer": "Heidi",
+                    "rightAnswer": "HEIDI",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2169,7 +2169,7 @@
                 },
                 {
                     "number": 129,
-                    "rightAnswer": "Hemlock",
+                    "rightAnswer": "CICUTA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2178,7 +2178,7 @@
                 },
                 {
                     "number": 130,
-                    "rightAnswer": "Highland Warrior",
+                    "rightAnswer": "GUERRERA DE LAS TIERRAS ALTAS",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2187,7 +2187,7 @@
                 },
                 {
                     "number": 131,
-                    "rightAnswer": "Hit Man",
+                    "rightAnswer": "HOMBRE DIANA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2196,7 +2196,7 @@
                 },
                 {
                     "number": 132,
-                    "rightAnswer": "Hollowhead",
+                    "rightAnswer": "CABEZAHUECA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2205,7 +2205,7 @@
                 },
                 {
                     "number": 133,
-                    "rightAnswer": "HONOR Guard",
+                    "rightAnswer": "GUARDIA DEL HONOR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2214,7 +2214,7 @@
                 },
                 {
                     "number": 134,
-                    "rightAnswer": "Hothouse",
+                    "rightAnswer": "TOMATINA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2223,7 +2223,7 @@
                 },
                 {
                     "number": 135,
-                    "rightAnswer": "Hotwire",
+                    "rightAnswer": "ESTALLIDO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2232,7 +2232,7 @@
                 },
                 {
                     "number": 136,
-                    "rightAnswer": "Huntress",
+                    "rightAnswer": "CAZADORA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2241,7 +2241,7 @@
                 },
                 {
                     "number": 137,
-                    "rightAnswer": "Antheia",
+                    "rightAnswer": "ANTHEIA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2259,7 +2259,7 @@
                 },
                 {
                     "number": 139,
-                    "rightAnswer": "Indigo Kuno",
+                    "rightAnswer": "KUNO INDIGO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2268,7 +2268,7 @@
                 },
                 {
                     "number": 140,
-                    "rightAnswer": "Infinity",
+                    "rightAnswer": "INFINITO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2277,7 +2277,7 @@
                 },
                 {
                     "number": 141,
-                    "rightAnswer": "Interceptor",
+                    "rightAnswer": "INTERCEPTORA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2286,7 +2286,7 @@
                 },
                 {
                     "number": 142,
-                    "rightAnswer": "Isabelle",
+                    "rightAnswer": "ISABELLE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2295,7 +2295,7 @@
                 },
                 {
                     "number": 143,
-                    "rightAnswer": "Iso",
+                    "rightAnswer": "ISO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2304,7 +2304,7 @@
                 },
                 {
                     "number": 144,
-                    "rightAnswer": "Jack Gourdon",
+                    "rightAnswer": "DON CALABAZO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2313,7 +2313,7 @@
                 },
                 {
                     "number": 145,
-                    "rightAnswer": "Jaeger",
+                    "rightAnswer": "JAGER",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2322,7 +2322,7 @@
                 },
                 {
                     "number": 146,
-                    "rightAnswer": "Juke",
+                    "rightAnswer": "REGATEADORA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2331,7 +2331,7 @@
                 },
                 {
                     "number": 147,
-                    "rightAnswer": "Jules",
+                    "rightAnswer": "JULES",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2340,7 +2340,7 @@
                 },
                 {
                     "number": 148,
-                    "rightAnswer": "Kane",
+                    "rightAnswer": "CIUDADANO K",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2349,7 +2349,7 @@
                 },
                 {
                     "number": 149,
-                    "rightAnswer": "Kenji",
+                    "rightAnswer": "KENJI",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2358,7 +2358,7 @@
                 },
                 {
                     "number": 150,
-                    "rightAnswer": "Kit",
+                    "rightAnswer": "KIT",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2367,7 +2367,7 @@
                 },
                 {
                     "number": 151,
-                    "rightAnswer": "Kitbash",
+                    "rightAnswer": "DESGUAZO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2376,7 +2376,7 @@
                 },
                 {
                     "number": 152,
-                    "rightAnswer": "Kondor",
+                    "rightAnswer": "KONDOR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2385,7 +2385,7 @@
                 },
                 {
                     "number": 153,
-                    "rightAnswer": "Kuno",
+                    "rightAnswer": "KUNO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2394,7 +2394,7 @@
                 },
                 {
                     "number": 154,
-                    "rightAnswer": "Kurohomura",
+                    "rightAnswer": "KUROHOMURA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2403,7 +2403,7 @@
                 },
                 {
                     "number": 155,
-                    "rightAnswer": "Grave",
+                    "rightAnswer": "TUMBA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2412,7 +2412,7 @@
                 },
                 {
                     "number": 156,
-                    "rightAnswer": "Lace",
+                    "rightAnswer": "ENCAJE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2421,7 +2421,7 @@
                 },
                 {
                     "number": 157,
-                    "rightAnswer": "Lexa",
+                    "rightAnswer": "LEXA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2430,7 +2430,7 @@
                 },
                 {
                     "number": 158,
-                    "rightAnswer": "Lil Whip",
+                    "rightAnswer": "CUCURUCHO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2448,7 +2448,7 @@
             "Levels": [
                 {
                     "number": 1,
-                    "rightAnswer": "Absolute Zero",
+                    "rightAnswer": "CERO ABSOLUTO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2457,7 +2457,7 @@
                 },
                 {
                     "number": 2,
-                    "rightAnswer": "Aerial Assault Trooper",
+                    "rightAnswer": "SOLDADO DE ASALTO AEREO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2466,7 +2466,7 @@
                 },
                 {
                     "number": 3,
-                    "rightAnswer": "Aerial Threat",
+                    "rightAnswer": "AMENAZA AEREA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2475,7 +2475,7 @@
                 },
                 {
                     "number": 4,
-                    "rightAnswer": "Aeronaut",
+                    "rightAnswer": "AERONAUTA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2484,7 +2484,7 @@
                 },
                 {
                     "number": 5,
-                    "rightAnswer": "Airhead",
+                    "rightAnswer": "CABEZA HUECA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2493,7 +2493,7 @@
                 },
                 {
                     "number": 6,
-                    "rightAnswer": "Airheart",
+                    "rightAnswer": "CORAZON AEREO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2502,7 +2502,7 @@
                 },
                 {
                     "number": 7,
-                    "rightAnswer": "Arctic Assassin",
+                    "rightAnswer": "ASESINA ARTICA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2511,7 +2511,7 @@
                 },
                 {
                     "number": 8,
-                    "rightAnswer": "Arctica",
+                    "rightAnswer": "ARTICA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2520,7 +2520,7 @@
                 },
                 {
                     "number": 9,
-                    "rightAnswer": "Asmodeus",
+                    "rightAnswer": "ASMODEO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2529,7 +2529,7 @@
                 },
                 {
                     "number": 10,
-                    "rightAnswer": "Axiom",
+                    "rightAnswer": "AXIOMA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2538,7 +2538,7 @@
                 },
                 {
                     "number": 11,
-                    "rightAnswer": "Bachii",
+                    "rightAnswer": "BACHII",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2547,7 +2547,7 @@
                 },
                 {
                     "number": 12,
-                    "rightAnswer": "Backbone",
+                    "rightAnswer": "DURO DE ROER",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2556,7 +2556,7 @@
                 },
                 {
                     "number": 13,
-                    "rightAnswer": "Bandolette",
+                    "rightAnswer": "BANDOLERA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2565,7 +2565,7 @@
                 },
                 {
                     "number": 14,
-                    "rightAnswer": "Beach Bomber",
+                    "rightAnswer": "BOMBARDERA PLAYERA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2574,7 +2574,7 @@
                 },
                 {
                     "number": 15,
-                    "rightAnswer": "Bendie",
+                    "rightAnswer": "DON DOBLETE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2583,7 +2583,7 @@
                 },
                 {
                     "number": 16,
-                    "rightAnswer": "Bigfoot",
+                    "rightAnswer": "PIEGRANDE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2592,7 +2592,7 @@
                 },
                 {
                     "number": 17,
-                    "rightAnswer": "Biz",
+                    "rightAnswer": "CURRITA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2601,7 +2601,7 @@
                 },
                 {
                     "number": 18,
-                    "rightAnswer": "Blockade Runner",
+                    "rightAnswer": "CORREDORA DE BLOQUEO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2610,7 +2610,7 @@
                 },
                 {
                     "number": 19,
-                    "rightAnswer": "Blue Squire",
+                    "rightAnswer": "ESCUDERO AZUL",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2619,7 +2619,7 @@
                 },
                 {
                     "number": 20,
-                    "rightAnswer": "Blue Team Leader",
+                    "rightAnswer": "LIDER DEL EQUIPO AZUL",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2628,7 +2628,7 @@
                 },
                 {
                     "number": 21,
-                    "rightAnswer": "Bravo Leader",
+                    "rightAnswer": "LIDER BRAVO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2637,7 +2637,7 @@
                 },
                 {
                     "number": 22,
-                    "rightAnswer": "Brawler",
+                    "rightAnswer": "PELEADORA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2646,7 +2646,7 @@
                 },
                 {
                     "number": 23,
-                    "rightAnswer": "Breakpoint",
+                    "rightAnswer": "PUNTO DE RUPTURA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2655,7 +2655,7 @@
                 },
                 {
                     "number": 24,
-                    "rightAnswer": "Brilliant Bomber",
+                    "rightAnswer": "BOMBARDERA BRILLANTE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2664,7 +2664,7 @@
                 },
                 {
                     "number": 25,
-                    "rightAnswer": "Brilliant Striker",
+                    "rightAnswer": "ARIETE BRILLANTE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2673,7 +2673,7 @@
                 },
                 {
                     "number": 26,
-                    "rightAnswer": "Brite Blaster",
+                    "rightAnswer": "BLASTER BRILLANTE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2682,7 +2682,7 @@
                 },
                 {
                     "number": 27,
-                    "rightAnswer": "Brite Bomber",
+                    "rightAnswer": "BOMBARDERA BRILLANTE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2691,7 +2691,7 @@
                 },
                 {
                     "number": 28,
-                    "rightAnswer": "Bronto",
+                    "rightAnswer": "BRONTO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2700,7 +2700,7 @@
                 },
                 {
                     "number": 29,
-                    "rightAnswer": "Bubble Bomber",
+                    "rightAnswer": "BOMBARDERA CHICLE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2709,7 +2709,7 @@
                 },
                 {
                     "number": 30,
-                    "rightAnswer": "Buccaneer",
+                    "rightAnswer": "BUCANERA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2718,7 +2718,7 @@
                 },
                 {
                     "number": 31,
-                    "rightAnswer": "Bull Shark",
+                    "rightAnswer": "TIBURON SARDO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2727,7 +2727,7 @@
                 },
                 {
                     "number": 32,
-                    "rightAnswer": "Bundles",
+                    "rightAnswer": "ABRAZINA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2736,7 +2736,7 @@
                 },
                 {
                     "number": 33,
-                    "rightAnswer": "Burial Threat",
+                    "rightAnswer": "AMENAZA ACIAGA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2745,7 +2745,7 @@
                 },
                 {
                     "number": 34,
-                    "rightAnswer": "Bushranger",
+                    "rightAnswer": "ARBUSTIN",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2754,7 +2754,7 @@
                 },
                 {
                     "number": 35,
-                    "rightAnswer": "Callisto",
+                    "rightAnswer": "CALISTO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2763,7 +2763,7 @@
                 },
                 {
                     "number": 36,
-                    "rightAnswer": "Carbon Commando",
+                    "rightAnswer": "COMANDO CARBONO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2772,7 +2772,7 @@
                 },
                 {
                     "number": 37,
-                    "rightAnswer": "Catastrophe",
+                    "rightAnswer": "GATASTROFE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2781,7 +2781,7 @@
                 },
                 {
                     "number": 38,
-                    "rightAnswer": "Chance",
+                    "rightAnswer": "AZAR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2790,7 +2790,7 @@
                 },
                 {
                     "number": 39,
-                    "rightAnswer": "Chopper",
+                    "rightAnswer": "MOTERA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2799,7 +2799,7 @@
                 },
                 {
                     "number": 40,
-                    "rightAnswer": "Chromium",
+                    "rightAnswer": "CROMO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2808,7 +2808,7 @@
                 },
                 {
                     "number": 41,
-                    "rightAnswer": "Cipher",
+                    "rightAnswer": "CODIFICADA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2817,7 +2817,7 @@
                 },
                 {
                     "number": 42,
-                    "rightAnswer": "Circuit Breaker",
+                    "rightAnswer": "ROMPECIRCUITOS",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2826,7 +2826,7 @@
                 },
                 {
                     "number": 43,
-                    "rightAnswer": "Clinical Crosser",
+                    "rightAnswer": "CENTRO CERTERO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2835,7 +2835,7 @@
                 },
                 {
                     "number": 44,
-                    "rightAnswer": "Cloudbreaker",
+                    "rightAnswer": "ROMPENUBES",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2844,7 +2844,7 @@
                 },
                 {
                     "number": 45,
-                    "rightAnswer": "Codename E.L.F.",
+                    "rightAnswer": "NOMBRE EN CLAVE E.L.F.O.",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2853,7 +2853,7 @@
                 },
                 {
                     "number": 46,
-                    "rightAnswer": "Contract Giller",
+                    "rightAnswer": "AGENTE AGALLAS",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2862,7 +2862,7 @@
                 },
                 {
                     "number": 47,
-                    "rightAnswer": "Crypt Crosser",
+                    "rightAnswer": "CENTRO DE CRIPTA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2871,7 +2871,7 @@
                 },
                 {
                     "number": 48,
-                    "rightAnswer": "Cryptic",
+                    "rightAnswer": "CRIPTICO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2880,7 +2880,7 @@
                 },
                 {
                     "number": 49,
-                    "rightAnswer": "Cutiepie",
+                    "rightAnswer": "POLVORONA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2889,7 +2889,7 @@
                 },
                 {
                     "number": 50,
-                    "rightAnswer": "Danger Zone",
+                    "rightAnswer": "ZONA DE PELIGRO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2898,7 +2898,7 @@
                 },
                 {
                     "number": 51,
-                    "rightAnswer": "Dare",
+                    "rightAnswer": "OSADIA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2907,7 +2907,7 @@
                 },
                 {
                     "number": 52,
-                    "rightAnswer": "Dazzle",
+                    "rightAnswer": "ASTREA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2916,7 +2916,7 @@
                 },
                 {
                     "number": 53,
-                    "rightAnswer": "Deadlock",
+                    "rightAnswer": "CANDADO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2925,7 +2925,7 @@
                 },
                 {
                     "number": 54,
-                    "rightAnswer": "Decaying Dribbler",
+                    "rightAnswer": "REGATEADORA ROIDA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2934,7 +2934,7 @@
                 },
                 {
                     "number": 55,
-                    "rightAnswer": "Demogorgon",
+                    "rightAnswer": "DEMOGORDON",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2943,7 +2943,7 @@
                 },
                 {
                     "number": 56,
-                    "rightAnswer": "Depth Dealer",
+                    "rightAnswer": "SOLDADO SUBACUATICO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2952,7 +2952,7 @@
                 },
                 {
                     "number": 57,
-                    "rightAnswer": "Desperado",
+                    "rightAnswer": "FORAJIDO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2961,7 +2961,7 @@
                 },
                 {
                     "number": 58,
-                    "rightAnswer": "Diecast",
+                    "rightAnswer": "FUNDIDO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2970,7 +2970,7 @@
                 },
                 {
                     "number": 59,
-                    "rightAnswer": "Disco Diva",
+                    "rightAnswer": "DIVA DISCO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2979,7 +2979,7 @@
                 },
                 {
                     "number": 60,
-                    "rightAnswer": "Dolph",
+                    "rightAnswer": "DOLPH",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2988,7 +2988,7 @@
                 },
                 {
                     "number": 61,
-                    "rightAnswer": "Doublecross",
+                    "rightAnswer": "DOBLE CARA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -2997,7 +2997,7 @@
                 },
                 {
                     "number": 62,
-                    "rightAnswer": "Dream",
+                    "rightAnswer": "SUEÑO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3006,7 +3006,7 @@
                 },
                 {
                     "number": 63,
-                    "rightAnswer": "Dynamic Dribbler",
+                    "rightAnswer": "REGATEADORA RENEGADA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3015,7 +3015,7 @@
                 },
                 {
                     "number": 64,
-                    "rightAnswer": "Dynamo",
+                    "rightAnswer": "DINAMO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3024,7 +3024,7 @@
                 },
                 {
                     "number": 65,
-                    "rightAnswer": "Echo",
+                    "rightAnswer": "ECO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3033,7 +3033,7 @@
                 },
                 {
                     "number": 66,
-                    "rightAnswer": "Facet",
+                    "rightAnswer": "FACETA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3042,7 +3042,7 @@
                 },
                 {
                     "number": 67,
-                    "rightAnswer": "Farmer Steel",
+                    "rightAnswer": "ACERO AGRARIO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3051,7 +3051,7 @@
                 },
                 {
                     "number": 68,
-                    "rightAnswer": "Fastball",
+                    "rightAnswer": "BOLA RAPIDA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3060,7 +3060,7 @@
                 },
                 {
                     "number": 69,
-                    "rightAnswer": "Fatal Finisher",
+                    "rightAnswer": "DELANTERA DECADENTE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3069,7 +3069,7 @@
                 },
                 {
                     "number": 70,
-                    "rightAnswer": "Fennix",
+                    "rightAnswer": "FENNIX",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3078,7 +3078,7 @@
                 },
                 {
                     "number": 71,
-                    "rightAnswer": "Finesse Finisher",
+                    "rightAnswer": "DELANTERA DECISIVA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3087,7 +3087,7 @@
                 },
                 {
                     "number": 72,
-                    "rightAnswer": "Firewalker",
+                    "rightAnswer": "CAMINANTE ÍGNEO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3096,7 +3096,7 @@
                 },
                 {
                     "number": 73,
-                    "rightAnswer": "First Strike Specialist",
+                    "rightAnswer": "ESPECIALISTA EN EL PRIMERGOLPE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3105,7 +3105,7 @@
                 },
                 {
                     "number": 74,
-                    "rightAnswer": "Fishstick",
+                    "rightAnswer": "PALITO DE PESCADO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3114,7 +3114,7 @@
                 },
                 {
                     "number": 75,
-                    "rightAnswer": "Flatfoot",
+                    "rightAnswer": "PIES DESCALZOS",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3123,7 +3123,7 @@
                 },
                 {
                     "number": 76,
-                    "rightAnswer": "Flutter",
+                    "rightAnswer": "ALETEADORA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3132,7 +3132,7 @@
                 },
                 {
                     "number": 77,
-                    "rightAnswer": "Focus",
+                    "rightAnswer": "FOCO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3141,7 +3141,7 @@
                 },
                 {
                     "number": 78,
-                    "rightAnswer": "Fortune",
+                    "rightAnswer": "FORTUNA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3150,7 +3150,7 @@
                 },
                 {
                     "number": 79,
-                    "rightAnswer": "Frontier",
+                    "rightAnswer": "FRONTERA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3159,7 +3159,7 @@
                 },
                 {
                     "number": 80,
-                    "rightAnswer": "Frosted Flurry",
+                    "rightAnswer": "VENTISCA VALIENTE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3168,7 +3168,7 @@
                 },
                 {
                     "number": 81,
-                    "rightAnswer": "Adeline",
+                    "rightAnswer": "ADELINE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3177,7 +3177,7 @@
                 },
                 {
                     "number": 82,
-                    "rightAnswer": "Athleisure Assassin",
+                    "rightAnswer": "ASESINA HIBRIDA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3186,7 +3186,7 @@
                 },
                 {
                     "number": 83,
-                    "rightAnswer": "Atlantean Fishstick",
+                    "rightAnswer": "PALITO DE PESCADO ATLANTE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3195,7 +3195,7 @@
                 },
                 {
                     "number": 84,
-                    "rightAnswer": "Axo",
+                    "rightAnswer": "AJO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3204,7 +3204,7 @@
                 },
                 {
                     "number": 85,
-                    "rightAnswer": "Baba Yaga",
+                    "rightAnswer": "BABA YAGA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3213,7 +3213,7 @@
                 },
                 {
                     "number": 86,
-                    "rightAnswer": "Bandwidth",
+                    "rightAnswer": "SUBIDA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3222,7 +3222,7 @@
                 },
                 {
                     "number": 87,
-                    "rightAnswer": "Barracuda",
+                    "rightAnswer": "BARRACUDA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3231,7 +3231,7 @@
                 },
                 {
                     "number": 88,
-                    "rightAnswer": "Bitstream",
+                    "rightAnswer": "FLUJO DE BITS",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3240,7 +3240,7 @@
                 },
                 {
                     "number": 89,
-                    "rightAnswer": "Blinky",
+                    "rightAnswer": "PARPADEO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3249,7 +3249,7 @@
                 },
                 {
                     "number": 90,
-                    "rightAnswer": "Bryce 3000",
+                    "rightAnswer": "BRYCE 3000",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3258,7 +3258,7 @@
                 },
                 {
                     "number": 91,
-                    "rightAnswer": "Bryne",
+                    "rightAnswer": "BRYNE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3267,7 +3267,7 @@
                 },
                 {
                     "number": 92,
-                    "rightAnswer": "Chigusa",
+                    "rightAnswer": "CHIGUSA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3276,7 +3276,7 @@
                 },
                 {
                     "number": 93,
-                    "rightAnswer": "Cobb",
+                    "rightAnswer": "MAZORQUIN",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3285,7 +3285,7 @@
                 },
                 {
                     "number": 94,
-                    "rightAnswer": "Comfy Chomps",
+                    "rightAnswer": "DIENTES DE DESCANSO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3294,7 +3294,7 @@
                 },
                 {
                     "number": 95,
-                    "rightAnswer": "Commandline",
+                    "rightAnswer": "LINEA DE COMANDOS",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3303,7 +3303,7 @@
                 },
                 {
                     "number": 96,
-                    "rightAnswer": "Cozy Chomps",
+                    "rightAnswer": "ALETAS ACOGEDORAS",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3312,7 +3312,7 @@
                 },
                 {
                     "number": 97,
-                    "rightAnswer": "Cuddle King",
+                    "rightAnswer": "REY CARIÑOSO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3321,7 +3321,7 @@
                 },
                 {
                     "number": 98,
-                    "rightAnswer": "Cypher",
+                    "rightAnswer": "CIFRADO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3330,7 +3330,7 @@
                 },
                 {
                     "number": 99,
-                    "rightAnswer": "Cyprus Nell",
+                    "rightAnswer": "CYPRUS NELL",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3339,7 +3339,7 @@
                 },
                 {
                     "number": 100,
-                    "rightAnswer": "Relaxed Fit Jonesy",
+                    "rightAnswer": "JONESY CALCE HOLGADO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3357,7 +3357,7 @@
             "Levels": [
                 {
                     "number": 1,
-                    "rightAnswer": "Anarchy Agent",
+                    "rightAnswer": "AGENTE ANARQUISTA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3366,7 +3366,7 @@
                 },
                 {
                     "number": 2,
-                    "rightAnswer": "Arctic Intel",
+                    "rightAnswer": "ACECHADOR HELADO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3375,7 +3375,7 @@
                 },
                 {
                     "number": 3,
-                    "rightAnswer": "Armadillo",
+                    "rightAnswer": "ARMADILLO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3384,7 +3384,7 @@
                 },
                 {
                     "number": 4,
-                    "rightAnswer": "Aura",
+                    "rightAnswer": "AURA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3393,7 +3393,7 @@
                 },
                 {
                     "number": 5,
-                    "rightAnswer": "B.R.U.T.E Gunner",
+                    "rightAnswer": "ARTILLERA DEL B.R.U.T.O",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3402,7 +3402,7 @@
                 },
                 {
                     "number": 6,
-                    "rightAnswer": "B.R.U.T.E Navigator",
+                    "rightAnswer": "PILOTO DEL B.R.U.T.O",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3411,7 +3411,7 @@
                 },
                 {
                     "number": 7,
-                    "rightAnswer": "Banner Trooper",
+                    "rightAnswer": "SOLDADO ESTANDARTE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3420,7 +3420,7 @@
                 },
                 {
                     "number": 8,
-                    "rightAnswer": "Birdie",
+                    "rightAnswer": "BIRDIE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3429,7 +3429,7 @@
                 },
                 {
                     "number": 9,
-                    "rightAnswer": "Bolt",
+                    "rightAnswer": "CENTELLA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3438,7 +3438,7 @@
                 },
                 {
                     "number": 10,
-                    "rightAnswer": "Boxer",
+                    "rightAnswer": "ENCAJADO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3447,7 +3447,7 @@
                 },
                 {
                     "number": 11,
-                    "rightAnswer": "Boxy",
+                    "rightAnswer": "CAJINA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3456,7 +3456,7 @@
                 },
                 {
                     "number": 12,
-                    "rightAnswer": "Bracer",
+                    "rightAnswer": "BRACER",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3465,7 +3465,7 @@
                 },
                 {
                     "number": 13,
-                    "rightAnswer": "Brainiac",
+                    "rightAnswer": "JONESY COMESESOS",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3474,7 +3474,7 @@
                 },
                 {
                     "number": 14,
-                    "rightAnswer": "Branded Brawler",
+                    "rightAnswer": "PELEADOR MARCADO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3483,7 +3483,7 @@
                 },
                 {
                     "number": 15,
-                    "rightAnswer": "Branded Brigadier",
+                    "rightAnswer": "BRIGADA MARCADA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3492,7 +3492,7 @@
                 },
                 {
                     "number": 16,
-                    "rightAnswer": "Bullseye",
+                    "rightAnswer": "DIANA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3501,7 +3501,7 @@
                 },
                 {
                     "number": 17,
-                    "rightAnswer": "Bunnymoon",
+                    "rightAnswer": "CONEJO LUNAR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3510,7 +3510,7 @@
                 },
                 {
                     "number": 18,
-                    "rightAnswer": "Cabbie",
+                    "rightAnswer": "TAXISTA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3519,7 +3519,7 @@
                 },
                 {
                     "number": 19,
-                    "rightAnswer": "Caution",
+                    "rightAnswer": "ALERTA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3528,7 +3528,7 @@
                 },
                 {
                     "number": 20,
-                    "rightAnswer": "Chill Count",
+                    "rightAnswer": "CRIOGENICA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3537,7 +3537,7 @@
                 },
                 {
                     "number": 21,
-                    "rightAnswer": "Chillout",
+                    "rightAnswer": "REFRIGERADO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3546,7 +3546,7 @@
                 },
                 {
                     "number": 22,
-                    "rightAnswer": "Clash",
+                    "rightAnswer": "DUELO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3555,7 +3555,7 @@
                 },
                 {
                     "number": 23,
-                    "rightAnswer": "Clover Team Leader",
+                    "rightAnswer": "LIDER DEL EQUIPO AFORTUNADO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3564,7 +3564,7 @@
                 },
                 {
                     "number": 24,
-                    "rightAnswer": "Cole",
+                    "rightAnswer": "COLE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3573,7 +3573,7 @@
                 },
                 {
                     "number": 25,
-                    "rightAnswer": "Commando",
+                    "rightAnswer": "COMANDO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3582,7 +3582,7 @@
                 },
                 {
                     "number": 26,
-                    "rightAnswer": "Cozy Commander",
+                    "rightAnswer": "COMANDANTE COMODONA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3591,7 +3591,7 @@
                 },
                 {
                     "number": 27,
-                    "rightAnswer": "Crimson Elite",
+                    "rightAnswer": "ELITE CARMESI",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3600,7 +3600,7 @@
                 },
                 {
                     "number": 28,
-                    "rightAnswer": "Crimson Scout",
+                    "rightAnswer": "EXPLORADOR ESCARLATA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3609,7 +3609,7 @@
                 },
                 {
                     "number": 29,
-                    "rightAnswer": "Crusher",
+                    "rightAnswer": "PLATONICA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3618,7 +3618,7 @@
                 },
                 {
                     "number": 30,
-                    "rightAnswer": "Crystal",
+                    "rightAnswer": "CRYSTAL",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3627,7 +3627,7 @@
                 },
                 {
                     "number": 31,
-                    "rightAnswer": "Deadfall",
+                    "rightAnswer": "CEPO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3636,7 +3636,7 @@
                 },
                 {
                     "number": 32,
-                    "rightAnswer": "Desert Dominator",
+                    "rightAnswer": "DOMINADORA DESERTICA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3645,7 +3645,7 @@
                 },
                 {
                     "number": 33,
-                    "rightAnswer": "Devastator",
+                    "rightAnswer": "DEVASTADOR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3654,7 +3654,7 @@
                 },
                 {
                     "number": 34,
-                    "rightAnswer": "Dominator",
+                    "rightAnswer": "DOMINADORA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3663,7 +3663,7 @@
                 },
                 {
                     "number": 35,
-                    "rightAnswer": "Envoy",
+                    "rightAnswer": "ENVIADA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3672,7 +3672,7 @@
                 },
                 {
                     "number": 36,
-                    "rightAnswer": "Ex",
+                    "rightAnswer": "EX",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3681,7 +3681,7 @@
                 },
                 {
                     "number": 37,
-                    "rightAnswer": "Gage",
+                    "rightAnswer": "TENSION",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3690,7 +3690,7 @@
                 },
                 {
                     "number": 38,
-                    "rightAnswer": "Garrison",
+                    "rightAnswer": "BOINA VERDE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3699,7 +3699,7 @@
                 },
                 {
                     "number": 39,
-                    "rightAnswer": "Grill Sergeant",
+                    "rightAnswer": "SARGENTO PARRILLA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3708,7 +3708,7 @@
                 },
                 {
                     "number": 40,
-                    "rightAnswer": "Grit",
+                    "rightAnswer": "CORAJE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3717,7 +3717,7 @@
                 },
                 {
                     "number": 41,
-                    "rightAnswer": "Guild",
+                    "rightAnswer": "GUILD",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3726,7 +3726,7 @@
                 },
                 {
                     "number": 42,
-                    "rightAnswer": "Hailstorm",
+                    "rightAnswer": "GRANIZADA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3735,7 +3735,7 @@
                 },
                 {
                     "number": 43,
-                    "rightAnswer": "Hard Charger",
+                    "rightAnswer": "CONDUCTOR AGRESIVO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3744,7 +3744,7 @@
                 },
                 {
                     "number": 44,
-                    "rightAnswer": "Hayseed",
+                    "rightAnswer": "PATAN",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3753,7 +3753,7 @@
                 },
                 {
                     "number": 45,
-                    "rightAnswer": "Highrise Assault Trooper",
+                    "rightAnswer": "SOLDADO ASALTO DE ALTURA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3762,7 +3762,7 @@
                 },
                 {
                     "number": 46,
-                    "rightAnswer": "Holly Jammer",
+                    "rightAnswer": "FORRO FESTIVO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3771,7 +3771,7 @@
                 },
                 {
                     "number": 47,
-                    "rightAnswer": "Ice Intercept",
+                    "rightAnswer": "INTERCEPTACION INVERNAL",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3780,7 +3780,7 @@
                 },
                 {
                     "number": 48,
-                    "rightAnswer": "Ice Stalker",
+                    "rightAnswer": "ACECHADOR HELADO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3789,7 +3789,7 @@
                 },
                 {
                     "number": 49,
-                    "rightAnswer": "Jolly Jammer",
+                    "rightAnswer": "INHIBIDORA INVERNAL",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3798,7 +3798,7 @@
                 },
                 {
                     "number": 50,
-                    "rightAnswer": "﻿Assault Trooper",
+                    "rightAnswer": "MILITAR DE ASALTO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3807,7 +3807,7 @@
                 },
                 {
                     "number": 51,
-                    "rightAnswer": "Jungle Scout",
+                    "rightAnswer": "EXPLORADORA SELVATICA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3816,7 +3816,7 @@
                 },
                 {
                     "number": 52,
-                    "rightAnswer": "King Flamingo",
+                    "rightAnswer": "REY FLAMENCO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3825,7 +3825,7 @@
                 },
                 {
                     "number": 53,
-                    "rightAnswer": "Knockout",
+                    "rightAnswer": "K.O.",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3834,7 +3834,7 @@
                 },
                 {
                     "number": 54,
-                    "rightAnswer": "Liteshow",
+                    "rightAnswer": "ESPECTACULO DE LUCES",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3843,7 +3843,7 @@
                 },
                 {
                     "number": 55,
-                    "rightAnswer": "Lt. Logo",
+                    "rightAnswer": "TENIENTE LOGO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3852,7 +3852,7 @@
                 },
                 {
                     "number": 56,
-                    "rightAnswer": "Manic",
+                    "rightAnswer": "DESENFRENO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3861,7 +3861,7 @@
                 },
                 {
                     "number": 57,
-                    "rightAnswer": "Marked Marauder",
+                    "rightAnswer": "SAQUEADORA SEÑALADA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3870,7 +3870,7 @@
                 },
                 {
                     "number": 58,
-                    "rightAnswer": "Match Point",
+                    "rightAnswer": "PUNTO DE PARTIDO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3879,7 +3879,7 @@
                 },
                 {
                     "number": 59,
-                    "rightAnswer": "Munitions Major",
+                    "rightAnswer": "MARISCAL MUNICION",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3888,7 +3888,7 @@
                 },
                 {
                     "number": 60,
-                    "rightAnswer": "Nitelite",
+                    "rightAnswer": "LUCES DE BOHEMIA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3897,7 +3897,7 @@
                 },
                 {
                     "number": 61,
-                    "rightAnswer": "Nog Ops",
+                    "rightAnswer": "OPERACIONES ESPECIALES PONCHE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3906,7 +3906,7 @@
                 },
                 {
                     "number": 62,
-                    "rightAnswer": "Pastel",
+                    "rightAnswer": "PASTEL",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3915,7 +3915,7 @@
                 },
                 {
                     "number": 63,
-                    "rightAnswer": "Patch Patroller",
+                    "rightAnswer": "PATRULLERO PARCHEADO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3924,7 +3924,7 @@
                 },
                 {
                     "number": 64,
-                    "rightAnswer": "Pathfinder",
+                    "rightAnswer": "DESCUBRIDOR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3933,7 +3933,7 @@
                 },
                 {
                     "number": 65,
-                    "rightAnswer": "PJ Patroller",
+                    "rightAnswer": "PATRULLERA PIJAMA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3942,7 +3942,7 @@
                 },
                 {
                     "number": 66,
-                    "rightAnswer": "Plastic Patroller",
+                    "rightAnswer": "PATRULLERO DE PLASTICO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3951,7 +3951,7 @@
                 },
                 {
                     "number": 67,
-                    "rightAnswer": "Prickly Patroller",
+                    "rightAnswer": "PATRULLERA PUNTIAGUDA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3960,7 +3960,7 @@
                 },
                 {
                     "number": 68,
-                    "rightAnswer": "Quackling",
+                    "rightAnswer": "PATITA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3969,7 +3969,7 @@
                 },
                 {
                     "number": 69,
-                    "rightAnswer": "Ranger",
+                    "rightAnswer": "ASALTADOR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3978,7 +3978,7 @@
                 },
                 {
                     "number": 70,
-                    "rightAnswer": "Razor",
+                    "rightAnswer": "RAZOR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3987,7 +3987,7 @@
                 },
                 {
                     "number": 71,
-                    "rightAnswer": "Recon Ranger",
+                    "rightAnswer": "RECLUTA DE RECONOCIMIENTO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -3996,7 +3996,7 @@
                 },
                 {
                     "number": 72,
-                    "rightAnswer": "Red Jade",
+                    "rightAnswer": "JADE ROJA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4005,7 +4005,7 @@
                 },
                 {
                     "number": 73,
-                    "rightAnswer": "Red-Nosed Ranger",
+                    "rightAnswer": "MONTARAZ DE NARIZ COLORADA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4014,7 +4014,7 @@
                 },
                 {
                     "number": 74,
-                    "rightAnswer": "Relay",
+                    "rightAnswer": "TRANSMISION",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4023,7 +4023,7 @@
                 },
                 {
                     "number": 75,
-                    "rightAnswer": "Renegade",
+                    "rightAnswer": "RENEGADA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4032,7 +4032,7 @@
                 },
                 {
                     "number": 76,
-                    "rightAnswer": "Scarlet Commander",
+                    "rightAnswer": "COMANDANTE ESCARLATA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4041,7 +4041,7 @@
                 },
                 {
                     "number": 77,
-                    "rightAnswer": "Scarlet Defender",
+                    "rightAnswer": "DEFENSORA ESCARLATA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4050,7 +4050,7 @@
                 },
                 {
                     "number": 78,
-                    "rightAnswer": "Scorpion",
+                    "rightAnswer": "ESCORPION",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4059,7 +4059,7 @@
                 },
                 {
                     "number": 79,
-                    "rightAnswer": "Scout",
+                    "rightAnswer": "EXPLORADOR",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4068,7 +4068,7 @@
                 },
                 {
                     "number": 80,
-                    "rightAnswer": "Sgt. Green Clover",
+                    "rightAnswer": "SARGENTO DE TRÉBOL VERDE",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4077,7 +4077,7 @@
                 },
                 {
                     "number": 81,
-                    "rightAnswer": "Aspen",
+                    "rightAnswer": "ALAMO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4086,7 +4086,7 @@
                 },
                 {
                     "number": 82,
-                    "rightAnswer": "Aura Analyzer",
+                    "rightAnswer": "ANALISTA DE AURAS",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4095,7 +4095,7 @@
                 },
                 {
                     "number": 83,
-                    "rightAnswer": "Babbit",
+                    "rightAnswer": "JONETITA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4104,7 +4104,7 @@
                 },
                 {
                     "number": 84,
-                    "rightAnswer": "Castaway Jonesy",
+                    "rightAnswer": "JONESY NAUFRAGO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4113,7 +4113,7 @@
                 },
                 {
                     "number": 85,
-                    "rightAnswer": "Bunya",
+                    "rightAnswer": "CONEJITA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4122,7 +4122,7 @@
                 },
                 {
                     "number": 86,
-                    "rightAnswer": "CeeCee",
+                    "rightAnswer": "CUI CUI",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4131,7 +4131,7 @@
                 },
                 {
                     "number": 87,
-                    "rightAnswer": "Cozy Jonesy",
+                    "rightAnswer": "JONESY JOVIAL",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4140,7 +4140,7 @@
                 },
                 {
                     "number": 88,
-                    "rightAnswer": "Crustina",
+                    "rightAnswer": "CORTEZINA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4149,7 +4149,7 @@
                 },
                 {
                     "number": 89,
-                    "rightAnswer": "Curse Buster",
+                    "rightAnswer": "CAZAMALDICIONES",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4158,7 +4158,7 @@
                 },
                 {
                     "number": 90,
-                    "rightAnswer": "Ecto Expert",
+                    "rightAnswer": "EXPERTO EN ECTOPLASMA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4167,7 +4167,7 @@
                 },
                 {
                     "number": 91,
-                    "rightAnswer": "Elite Linesman",
+                    "rightAnswer": "LINIER LEGAL",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4176,7 +4176,7 @@
                 },
                 {
                     "number": 92,
-                    "rightAnswer": "End Zone Expert",
+                    "rightAnswer": "ANOTADORA AVEZADA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4185,7 +4185,7 @@
                 },
                 {
                     "number": 93,
-                    "rightAnswer": "Fair Play",
+                    "rightAnswer": "JUEGO LIMPIO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4194,7 +4194,7 @@
                 },
                 {
                     "number": 94,
-                    "rightAnswer": "Haunt Officer",
+                    "rightAnswer": "AGENTE DE APARICIONES",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4203,7 +4203,7 @@
                 },
                 {
                     "number": 95,
-                    "rightAnswer": "Hawk Classic",
+                    "rightAnswer": "HALCON CLASICO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4212,7 +4212,7 @@
                 },
                 {
                     "number": 96,
-                    "rightAnswer": "Headhunter Prime",
+                    "rightAnswer": "CAZARRECOMPENSAS SUPREMA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4221,7 +4221,7 @@
                 },
                 {
                     "number": 97,
-                    "rightAnswer": "Hopscotch",
+                    "rightAnswer": "RAYUELA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4230,7 +4230,7 @@
                 },
                 {
                     "number": 98,
-                    "rightAnswer": "Huddle Hero",
+                    "rightAnswer": "CAMPEONA DEL CORRO",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4239,7 +4239,7 @@
                 },
                 {
                     "number": 99,
-                    "rightAnswer": "Jonesy the First",
+                    "rightAnswer": "JONESY 1",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
@@ -4248,7 +4248,7 @@
                 },
                 {
                     "number": 100,
-                    "rightAnswer": "Jungle Scout",
+                    "rightAnswer": "EXPLORADORA SELVATICA",
                     "imageText": "",
                     "imageDescription": "",
                     "wrongAnswers": [],
