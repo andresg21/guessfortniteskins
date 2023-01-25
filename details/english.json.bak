@@ -1059,6 +1059,15 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 40
+                },
+				{
+                    "number": 118,
+                    "rightAnswer": "Mecha Cuddle Master",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
                 }
             ]
         },
