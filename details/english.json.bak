@@ -1005,15 +1005,6 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 40
-                },
-                {
-                    "number": 112,
-                    "rightAnswer": "All Might",
-                    "imageText": "",
-                    "imageDescription": "",
-                    "wrongAnswers": [],
-                    "gameType": 0,
-                    "cost": 40
                 }
             ]
         },
