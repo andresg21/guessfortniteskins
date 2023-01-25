@@ -1140,6 +1140,15 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 40
+                },
+				{
+                    "number": 127,
+                    "rightAnswer": "Torin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
                 }
             ]
         },
