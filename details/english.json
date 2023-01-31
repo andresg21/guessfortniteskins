@@ -4326,6 +4326,15 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 40
+                },
+				{
+                    "number": 350,
+                    "rightAnswer": "Mighty Midfielder",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
                 }
             ]
         },

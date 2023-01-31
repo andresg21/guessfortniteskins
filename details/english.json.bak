@@ -4317,6 +4317,15 @@
                     "wrongAnswers": [],
                     "gameType": 0,
                     "cost": 40
+                },
+				{
+                    "number": 349,
+                    "rightAnswer": "Midsummer Midas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 40
                 }
             ]
         },
